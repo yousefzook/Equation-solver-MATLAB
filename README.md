@@ -7,7 +7,7 @@ An equation solver to slove any equation by numerical methods with an approxitem
 
 ######You can find more details in report: 
 
-![Report](https://drive.google.com/drive/folders/1eI83L53pjty9ts61y30Wv1JKuXSSczMu)
+![Report](https://raw.githubusercontent.com/yousefzook/Equation-solver-MATLAB/b569c81095697655f57aba120ac1e6ba39ccc0d6/Root%20Finder%20and%20Systems.pdf)
 
 
 # Credits:
